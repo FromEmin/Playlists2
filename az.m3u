@@ -37,5 +37,7 @@ https://str2.yodacdn.net/ntv/video.m3u8
 http://stream.shbro.org/stream/5DAA46FD1012/vetvindexm3u8.m3u8
 #EXTINF:-1 tvg-id="TRT HABER",TRT HABER
 http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_a785.m3u8
-#EXTINF:-1 tvg-id="Kanal",Kanal Avrupa
-http://stream.shbro.org/stream/5DAA46FD1012/v2a1monom3u8_a1db.m3u8
+#EXTINF:-1 tvg-id="Kanal D",Kanal D
+http://stream.shbro.org/stream/5DAA46FD1012/0playlistm3u8_1c25.m3u8
+#EXTINF:-1 tvg-id="Star TV",Star TV
+http://stream.shbro.org/stream/5DAA46FD1012/hlsstartv4puhu.m3u8
