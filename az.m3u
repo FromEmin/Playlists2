@@ -11,7 +11,7 @@ https://str.yodacdn.net/medeniyyettele/index.m3u8
 https://www.xezerxeber.az/stream/index.m3u8
 #EXTINF:-1,Baku TV (480p)
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1,APA Tv (1080p)
+#EXTINF:-1,APA TV (1080p)
 http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1,Azstar TV HD (1080p)
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
@@ -31,19 +31,19 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/mai
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Naxcivan TV (720p)
 https://str2.yodacdn.net/ntv/video.m3u8
-#EXTINF:-1,LİVE TV
+#EXTINF:-1,LIVE TV (720P)
 http://stream.shbro.org/stream/5DAA46FD1012/vetvindexm3u8.m3u8
-#EXTINF:-1,Alvin Channel TV (360p) [Not 24/7]
+#EXTINF:-1,Alvin Channel TV (1080p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1,TRT TURK
+#EXTINF:-1,TRT TURK (720P)
 http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_7874.m3u8
-#EXTINF:-1,TRT HABER
+#EXTINF:-1,TRT HABER (720P)
 http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_a785.m3u8
-#EXTINF:-1,TRT COCUK
+#EXTINF:-1,TRT COCUK (720P)
 http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_fbfb.m3u8
-#EXTINF:-1,Kanal D
+#EXTINF:-1,Kanal D (720P)
 http://stream.shbro.org/stream/5DAA46FD1012/0playlistm3u8_1c25.m3u8
-#EXTINF:-1,Star TV
+#EXTINF:-1,Star TV (480P)
 http://stream.shbro.org/stream/5DAA46FD1012/hlsstartv4puhu.m3u8
 #EXTINF:-1,Как львенок и черепаха пели песню
 https://mults.info/mp4/kak_lvenok_i_cherepaha_peli_pesnyu.mp4
