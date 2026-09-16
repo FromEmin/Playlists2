@@ -55,6 +55,10 @@ http://online-video.rbc.ru/spb/rbctv_spb.m3u8
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 #EXTINF:-1 audio-track="rus", Мир 24 HD (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 audio-track="rus", Известия (1080p)
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 audio-track="rus", Известия HD (1080p)
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 audio-track="rus", Fireplace (2K)
 https://jmp2.uk/stvp-KRBD44000025L
 #EXTINF:-1 audio-track="rus", Живая природа HD (1080p)
