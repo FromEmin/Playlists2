@@ -2,37 +2,39 @@
 
 #EXTINF:-1,Az TV (1080p)
 https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1,Az TV
+#EXTINF:-1,Az TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
 #EXTINF:-1,Medeniyyet TV (1080p)
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1,Xezer TV (720p)
 https://www.xezerxeber.az/stream/index.m3u8
-#EXTINF:-1,Baku.TV
+#EXTINF:-1,Baku TV (480p)
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1,Baku.TV
-http://stream.shbro.org/stream/5DAA46FD1012/kutv1080pm3u8.m3u8
+#EXTINF:-1,APA Tv (1080p)
+http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1,Azstar TV HD (1080p)
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1,EL TV (260p) [Not 24/7]
+#EXTINF:-1,EL TV (360p) [Not 24/7]
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1,Ictimai TV
+#EXTINF:-1,Ictimai TV (650p)
 https://live.itv.az/itv.m3u8
 #EXTINF:-1,Kanal 35 (720p)
 https://str2.yodacdn.net/kanal35/index.m3u8
-#EXTINF:-1,Kanal S
+#EXTINF:-1,Kanal S (1080p)
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
-#EXTINF:-1,Kapaz TV
+#EXTINF:-1,Kapaz TV (540p)
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1,Ayaz TV (720p)
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:-1,KN Music TV
+#EXTINF:-1,KN Music TV (1080p)
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Naxcivan TV (720p)
 https://str2.yodacdn.net/ntv/video.m3u8
 #EXTINF:-1,LİVE TV
 http://stream.shbro.org/stream/5DAA46FD1012/vetvindexm3u8.m3u8
+#EXTINF:-1,Alvin Channel TV (360p) [Not 24/7]
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1,TRT TURK
 http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_7874.m3u8
 #EXTINF:-1,TRT HABER
