@@ -5,24 +5,24 @@ https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1,Az TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+#EXTINF:-1,Ictimai TV (650p)
+https://live.itv.az/itv.m3u8
 #EXTINF:-1,Medeniyyet TV (1080p)
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1,Xezer TV (720p)
 https://xezer.tvstream.az/hls/stream/index.m3u8
-#EXTINF:-1,Baku TV (480p)
+#EXTINF:-1,Baku TV (1080p)
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1,APA TV (1080p)
 http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1,Kanal S (1080p)
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1,Azstar TV HD (1080p)
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1,EL TV (360p) [Not 24/7]
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1,Ictimai TV (650p)
-https://live.itv.az/itv.m3u8
 #EXTINF:-1,Kanal 35 (720p)
 https://str2.yodacdn.net/kanal35/index.m3u8
-#EXTINF:-1,Kanal S (1080p)
-https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1,Kapaz TV (540p)
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1,Ayaz TV (720p)
@@ -31,20 +31,20 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/mai
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Naxcivan TV (720p)
 https://str2.yodacdn.net/ntv/video.m3u8
-#EXTINF:-1,LIVE TV (720P)
-http://stream.shbro.org/stream/5DAA46FD1012/vetvindexm3u8.m3u8
-#EXTINF:-1,Alvin Channel TV (1080p) [Not 24/7]
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1,TRT TURK (720P)
-http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_7874.m3u8
+http://tv.shbro.org/stream/287B8B94169E/master720m3u8_7874.m3u8
 #EXTINF:-1,TRT HABER (720P)
-http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_a785.m3u8
+http://tv.shbro.org/stream/287B8B94169E/master720m3u8_a785.m3u8
 #EXTINF:-1,TRT COCUK (720P)
-http://stream.shbro.org/stream/5DAA46FD1012/master720m3u8_fbfb.m3u8
+http://tv.shbro.org/stream/287B8B94169E/master720m3u8_bb93.m3u8
 #EXTINF:-1,Kanal D (720P)
-http://stream.shbro.org/stream/5DAA46FD1012/0playlistm3u8_1c25.m3u8
+http://tv.shbro.org/stream/287B8B94169E/0playlistm3u8_1c25.m3u8
 #EXTINF:-1,Star TV (480P)
-http://stream.shbro.org/stream/5DAA46FD1012/hlsstartv4puhu.m3u8
+http://tv.shbro.org/stream/287B8B94169E/hlsstartv4puhu.m3u8
+#EXTINF:-1 audio-track="rus", НТВ (576p)
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+#EXTINF:-1 audio-track="rus", Россия 1 (1080p)
+https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 audio-track="rus", Россия 24 (576p)
 https://stream.smotrim.ru/hls2/russia_24/playlist_3.m3u8
 #EXTINF:-1 audio-track="rus", Россия 24 HD (1080p)
@@ -55,10 +55,20 @@ http://online-video.rbc.ru/spb/rbctv_spb.m3u8
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 #EXTINF:-1 audio-track="rus", Мир 24 HD (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 audio-track="rus", Мир HD (1080p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 audio-track="rus", Известия (1080p)
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 audio-track="rus", Известия HD (1080p)
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 audio-track="rus", CGTN Русский (720p)
+http://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+#EXTINF:-1 audio-track="rus", CGTN Русский HD (1080p)
+https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 audio-track="rus", Звезда (576p)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 audio-track="rus", Звезда HD (1080p)
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 audio-track="rus", Fireplace (2K)
 https://jmp2.uk/stvp-KRBD44000025L
 #EXTINF:-1 audio-track="rus", Живая природа HD (1080p)
