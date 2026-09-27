@@ -64,11 +64,11 @@ https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFX
 #EXTINF:-1 audio-track="rus", Звезда (576p)
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 audio-track="rus", Звезда HD (1080p)
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 audio-track="rus", RTД
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 audio-track="rus", RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 audio-track="rus", TV BRICS HD
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 audio-track="rus", Неизвестная Россия
@@ -81,8 +81,6 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 https://jmp2.uk/stvp-KRBD44000025L
 #EXTINF:-1 audio-track="rus", Живая природа HD (1080p)
 https://stream1.cinerama.uz/1411/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Az Cinema (1080p)
-https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8
 #EXTINF:-1,Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1,Aznews TV (720p) [Not 24/7]
