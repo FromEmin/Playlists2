@@ -31,8 +31,14 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/mai
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Naxcivan TV (720p)
 https://str2.yodacdn.net/ntv/video.m3u8
+#EXTINF:-1 audio-track="rus", Первый канал (576p)
+http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
+#EXTINF:-1 audio-track="rus", Первый канал HD (1080p)
+https://stream3.cinerama.uz/1214/mono.m3u8
 #EXTINF:-1 audio-track="rus", НТВ (576p)
 http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+#EXTINF:-1 audio-track="rus", НТВ HD (1080p)
+http://flussonic.linkintel.ru/ntv/index.m3u8
 #EXTINF:-1 audio-track="rus", Россия 1 (1080p)
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 audio-track="rus", Россия 24 (576p)
@@ -58,26 +64,26 @@ https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFX
 #EXTINF:-1 audio-track="rus", Звезда (576p)
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 audio-track="rus", Звезда HD (1080p)
+#EXTINF:-1 audio-track="rus", RTД
+http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
+#EXTINF:-1 audio-track="rus", RTД HD
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 audio-track="rus", TV BRICS HD
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 audio-track="rus", Неизвестная Россия
+http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 audio-track="rus", НТВ-Сериал
+http://cdn.ntv.ru/th_serial/mono.m3u8
+#EXTINF:-1 audio-track="rus", НТВ-Хит
+http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 audio-track="rus", Fireplace (2K)
 https://jmp2.uk/stvp-KRBD44000025L
 #EXTINF:-1 audio-track="rus", Живая природа HD (1080p)
 https://stream1.cinerama.uz/1411/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ARB
-http://85.132.81.184:8080/arb/live/index.m3u8
-#EXTINF:-1,ARB 24
-http://85.132.81.184:8080/arb24/live1/index.m3u8
-#EXTINF:-1,ATV 1
-http://85.132.81.184:8080/atv/index.m3u8
-#EXTINF:-1,ATV 1
-http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
-#EXTINF:-1,ATV 2
-http://85.132.81.184:8080/atv-2/index.m3u8
-#EXTINF:-1,ATV 4
-http://85.132.81.184:8080/atv-4/index.m3u8
-#EXTINF:-1,CBC
-http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
-#EXTINF:-1,GünAz TV
-rtsp://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/feed02?nc=1
-#EXTINF:-1,Kəpəz TV
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1,Az Cinema (1080p)
+https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8
+#EXTINF:-1,Azan TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+#EXTINF:-1,Aznews TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
