@@ -31,6 +31,52 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/mai
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Naxcivan TV (720p)
 https://str2.yodacdn.net/ntv/video.m3u8
+#EXTINF:-1,TRT 1
+https://tv-trt1.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1,ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1,Show TV
+http://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web
+#EXTINF:-1,Star-TV
+https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+#EXTINF:-1,Kanal D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web
+#EXTINF:-1,Euro D
+http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1,Now TV
+http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1,Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1,TRT Turk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1,Meltem TV
+http://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+#EXTINF:-1,TV4 
+http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1,TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1,Haberturk
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1,Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1,Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1,NTV
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+#EXTINF:-1,A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1,TEVE2
+http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1,Ciftci TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1,Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1,Cine 1 TV
+http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 audio-track="rus", Первый канал (576p)
 http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 audio-track="rus", Первый канал HD (1080p)
