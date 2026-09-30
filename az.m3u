@@ -1,35 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1,Az TV (1080p)
+#EXTINF:-1,Az TV
 https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1,Az TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
-#EXTINF:-1,Ictimai TV (1080p)
+#EXTINF:-1,Ictimai TV
 https://live.itv.az/itv.m3u8
-#EXTINF:-1,Medeniyyet TV (1080p)
+#EXTINF:-1,Medeniyyet TV
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:-1,Xezer TV (720p)
+#EXTINF:-1,Xezer TV
 https://xezer.tvstream.az/hls/stream/index.m3u8
-#EXTINF:-1,Baku TV (1080p)
+#EXTINF:-1,Baku TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1,APA TV (1080p)
+#EXTINF:-1,APA TV
 http://stream.apa.tv/apastream/index.m3u8
-#EXTINF:-1,Kanal S (1080p)
+#EXTINF:-1,Kanal S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
-#EXTINF:-1,Azstar TV HD (1080p)
+#EXTINF:-1,Azstar TV HD
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1,EL TV (360p) [Not 24/7]
+#EXTINF:-1,EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1,Kanal 35 (720p)
+#EXTINF:-1,Kanal 35
 https://str2.yodacdn.net/kanal35/index.m3u8
-#EXTINF:-1,Kapaz TV (540p)
+#EXTINF:-1,Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1,Ayaz TV (720p)
+#EXTINF:-1,Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:-1,KN Music TV (1080p)
+#EXTINF:-1,KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Naxcivan TV (720p)
+#EXTINF:-1,Naxcivan TV
 https://str2.yodacdn.net/ntv/video.m3u8
 #EXTINF:-1,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_480.m3u8
@@ -77,55 +77,63 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1,Cine 1 TV
 http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
-#EXTINF:-1 audio-track="rus", Первый канал (576p)
+#EXTINF:-1 audio-track="rus", Первый канал
 http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
-#EXTINF:-1 audio-track="rus", Первый канал HD (1080p)
+#EXTINF:-1 audio-track="rus", Первый канал HD
 https://stream3.cinerama.uz/1214/mono.m3u8
-#EXTINF:-1 audio-track="rus", НТВ (576p)
+#EXTINF:-1 audio-track="rus", НТВ
 http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
-#EXTINF:-1 audio-track="rus", НТВ HD (1080p)
+#EXTINF:-1 audio-track="rus", НТВ HD
 http://flussonic.linkintel.ru/ntv/index.m3u8
-#EXTINF:-1 audio-track="rus", Россия 1 (1080p)
+#EXTINF:-1,НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 audio-track="rus", Россия 1
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 audio-track="rus", Россия 24 (576p)
+#EXTINF:-1,Россия 1 HD
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 audio-track="rus", Россия 24
 https://stream.smotrim.ru/hls2/russia_24/playlist_3.m3u8
-#EXTINF:-1 audio-track="rus", Россия 24 HD (1080p)
+#EXTINF:-1 audio-track="rus", Россия 24 HD  
 https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 audio-track="rus", РБК (576p)
+#EXTINF:-1 audio-track="rus", РБК
 http://online-video.rbc.ru/spb/rbctv_spb.m3u8
-#EXTINF:-1 audio-track="rus", РБК HD (1080p)
+#EXTINF:-1 audio-track="rus", РБК HD
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
-#EXTINF:-1 audio-track="rus", RTД (720p)
+#EXTINF:-1 audio-track="rus", RTД
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
-#EXTINF:-1 audio-track="rus", RTД HD (1080p)
+#EXTINF:-1 audio-track="rus", RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 audio-track="rus", Известия (1080p)
+#EXTINF:-1,360°
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 audio-track="rus", Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 audio-track="rus", Известия HD (1080p)
+#EXTINF:-1 audio-track="rus", Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 audio-track="rus", Мир 24 HD (1080p)
+#EXTINF:-1 audio-track="rus", Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 audio-track="rus", Мир HD (1080p)
+#EXTINF:-1 audio-track="rus", Мир HD  
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 audio-track="rus", Звезда (576p)
+#EXTINF:-1 audio-track="rus", Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:-1 audio-track="rus", Звезда HD (1080p)
+#EXTINF:-1 audio-track="rus", Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 audio-track="rus", CGTN Русский (720p)
+#EXTINF:-1 audio-track="rus", CGTN Русский
 http://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
-#EXTINF:-1 audio-track="rus", CGTN Русский HD (1080p)
+#EXTINF:-1 audio-track="rus", CGTN Русский HD
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 audio-track="rus", TV BRICS HD (1080p)
+#EXTINF:-1 audio-track="rus", TV BRICS HD
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 audio-track="rus", Неизвестная Россия (576p)
+#EXTINF:-1 audio-track="rus", Неизвестная Россия
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 audio-track="rus", НТВ-Сериал (576p)
+#EXTINF:-1 audio-track="rus", НТВ-Сериал
 http://cdn.ntv.ru/th_serial/mono.m3u8
-#EXTINF:-1 audio-track="rus", НТВ-Хит (576p)
+#EXTINF:-1 audio-track="rus", НТВ-Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 audio-track="rus", Fireplace (2K)
+#EXTINF:-1,FON music
+http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 audio-track="rus", Fireplace
 https://jmp2.uk/stvp-KRBD44000025L
-#EXTINF:-1 audio-track="rus", Живая природа HD (1080p)
+#EXTINF:-1 audio-track="rus", Живая природа HD
 https://stream1.cinerama.uz/1411/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Azan TV (720p)
+#EXTINF:-1,Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
