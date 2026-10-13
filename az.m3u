@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1,Az TV
+#EXTINF:-1,AzTV HD
 https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1,Az TV (576p)
+#EXTINF:-1,AzTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
-#EXTINF:-1,Ictimai TV
+#EXTINF:-1,Ictimai TV HD
 https://live.itv.az/itv.m3u8
-#EXTINF:-1,Medeniyyet TV
+#EXTINF:-1,Medeniyyet TV HD
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:-1,Xezer TV
+#EXTINF:-1,Xezer TV HD
 https://xezer.tvstream.az/hls/stream/index.m3u8
-#EXTINF:-1,Baku TV
+#EXTINF:-1,Baku TV HD
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1,APA TV
+#EXTINF:-1,APA TV HD
 http://stream.apa.tv/apastream/index.m3u8
-#EXTINF:-1,Kanal S
+#EXTINF:-1,Kanal S HD
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1,Azstar TV HD
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
@@ -25,9 +25,9 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 https://str2.yodacdn.net/kanal35/index.m3u8
 #EXTINF:-1,Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1,Ayaz TV
+#EXTINF:-1,Ayaz TV HD
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:-1,KN Music TV
+#EXTINF:-1,KN Music TV HD
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Naxcivan TV
 https://str2.yodacdn.net/ntv/video.m3u8
@@ -105,6 +105,10 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1,360°
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1,360° HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1,360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1,ВМЕСТЕ:РФ HD
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1,ТАСС
@@ -135,8 +139,12 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1,Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 audio-track="rus", Неизвестная Россия
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Неизвестная Россия HD
+https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1,НТВ Стиль
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НТВ Право
