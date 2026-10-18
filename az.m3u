@@ -9,10 +9,14 @@ http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SL
 https://live.itv.az/itv.m3u8
 #EXTINF:-1,Medeniyyet TV HD
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:-1,Xezer TV HD
+#EXTINF:-1,Xezer TV
 https://xezer.tvstream.az/hls/stream/index.m3u8
-#EXTINF:-1,Xezer TV2 HD
-https://xezer.tvstream.az/hls/stream/main_stream.m3u8
+#EXTINF:-1,Xezer TV HD
+https://www.xezerxeber.az/stream/index.m3u8
+#EXTINF:-1,Azad TV HD
+#EXTVLCOPT:http-referrer=No response
+#EXTVLCOPT:http-user-agent=No response
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1,Baku TV HD
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1,APA TV HD
@@ -27,6 +31,8 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 https://str2.yodacdn.net/kanal35/index.m3u8
 #EXTINF:-1,Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1,Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:-1,Ayaz TV HD
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1,KN Music TV HD
@@ -39,7 +45,7 @@ https://tv-trt1.medya.trt.com.tr/master_480.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1,Show TV
 http://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web
-#EXTINF:-1,Star-TV
+#EXTINF:-1,Star TV
 https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1,Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web
@@ -81,8 +87,8 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 audio-track="rus", Первый канал
 http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
-#EXTINF:-1 audio-track="rus", Первый канал HD
-https://stream3.cinerama.uz/1214/mono.m3u8
+#EXTINF:-1,Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 audio-track="rus", НТВ
 http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
 #EXTINF:-1 audio-track="rus", НТВ HD
@@ -119,6 +125,8 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
 #EXTINF:-1,РГВК Дагестан
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1,Грозный
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 audio-track="rus", Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 audio-track="rus", Известия HD
@@ -137,12 +145,18 @@ http://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMH
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 audio-track="rus", TV BRICS HD
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Доктор
+http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1,Союзный
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1,Большая Азия HD
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1,Арсенал
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Viju EXPLORE
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1,Неизвестная Планета
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 audio-track="rus", Неизвестная Россия
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Неизвестная Россия HD
@@ -155,15 +169,19 @@ http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 http://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTINF:-1 audio-track="rus", НТВ-Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Pro100
+https://stream8.cinerama.uz/1051/index.m3u8
 #EXTINF:-1,Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1,Viju TV1000
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1,Viju TV1000 Action
+http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1,FON music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1,Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 audio-track="rus", Fireplace
-https://jmp2.uk/stvp-KRBD44000025L
+#EXTINF:-1,Viju+ sport
+http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 audio-track="rus", Живая природа HD
 https://stream1.cinerama.uz/1411/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Azan TV
-https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
