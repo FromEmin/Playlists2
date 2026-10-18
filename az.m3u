@@ -10,7 +10,8 @@ https://live.itv.az/itv.m3u8
 #EXTINF:-1,Medeniyyet TV HD
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1,Xezer TV
-https://xezer.tvstream.az/hls/stream/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 #EXTINF:-1,Xezer TV HD
 https://www.xezerxeber.az/stream/
 #EXTINF:-1,Azad TV HD
