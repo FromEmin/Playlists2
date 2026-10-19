@@ -9,12 +9,6 @@ http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SL
 https://live.itv.az/itv.m3u8
 #EXTINF:-1,Medeniyyet TV HD
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:-1,Xezer TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://xezer.tvstream.az/hls/stream/main_stream.m3u8
-#EXTINF:-1,Xezer TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://yayin2.canlitv.fun/live/xezertv.stream/media_w33235639_16045.ts?hash=62d73cfb044b604a7f9b3f95709b5440
 #EXTINF:-1,Azad TV HD
 #EXTVLCOPT:http-referrer=No response
 #EXTVLCOPT:http-user-agent=No response
@@ -87,36 +81,38 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1,Cine 1 TV
 http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
-#EXTINF:-1 audio-track="rus", Первый канал
+#EXTINF:-1 audio-track="rus",Первый канал
 http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
-#EXTINF:-1,Первый канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 audio-track="rus", НТВ
+#EXTINF:-1 audio-track="rus",НТВ
 http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
-#EXTINF:-1 audio-track="rus", НТВ HD
+#EXTINF:-1 audio-track="rus",НТВ HD
 http://flussonic.linkintel.ru/ntv/index.m3u8
 #EXTINF:-1,НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 audio-track="rus", Россия 1
+#EXTINF:-1 audio-track="rus",Россия 1
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1,Россия 1 HD
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:-1 audio-track="rus", Россия 24
+#EXTINF:-1 audio-track="rus",Россия 24
 https://stream.smotrim.ru/hls2/russia_24/playlist_3.m3u8
-#EXTINF:-1 audio-track="rus", Россия 24 HD  
+#EXTINF:-1 audio-track="rus",Россия 24 HD  
 https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 audio-track="rus", РБК
+#EXTINF:-1 audio-track="rus",РБК
 http://online-video.rbc.ru/spb/rbctv_spb.m3u8
-#EXTINF:-1 audio-track="rus", РБК HD
+#EXTINF:-1 audio-track="rus",РБК HD
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
-#EXTINF:-1 audio-track="rus", RTД
+#EXTINF:-1 audio-track="rus",RTД
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
-#EXTINF:-1 audio-track="rus", RTД HD
+#EXTINF:-1 audio-track="rus",RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 audio-track="rus",Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 audio-track="rus",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,360°
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1,360° HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1,360° HD
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1,360° Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1,ВМЕСТЕ:РФ HD
@@ -129,37 +125,49 @@ https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1,Грозный
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-#EXTINF:-1 audio-track="rus", Известия
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 audio-track="rus", Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 audio-track="rus", Мир 24 HD
+#EXTINF:-1 audio-track="rus",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 audio-track="rus", Мир HD  
+#EXTINF:-1 audio-track="rus",Мир HD  
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 audio-track="rus", Звезда
+#EXTINF:-1 audio-track="rus",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:-1 audio-track="rus", Звезда HD
+#EXTINF:-1 audio-track="rus",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 audio-track="rus", CGTN Русский
+#EXTINF:-1 audio-track="rus",CGTN Русский
 http://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
-#EXTINF:-1 audio-track="rus", CGTN Русский HD
+#EXTINF:-1 audio-track="rus",CGTN Русский HD
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 audio-track="rus", TV BRICS HD
+#EXTINF:-1 audio-track="rus",TV BRICS HD
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Доктор
-http://45.11.139.43:8555/doctor/index.m3u8
-#EXTINF:-1,Союзный
-https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1,Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1,Арсенал
-https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Союзный
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+#EXTINF:-1,Доктор
+http://45.11.139.43:8555/doctor/index.m3u8
+#EXTINF:-1 audio-track="rus",Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 audio-track="rus",TLC
+http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1,Viju EXPLORE
 http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 audio-track="rus",Travel Channel HD
+http://stream.mcquack.net/231/index.m3u8
+#EXTINF:-1 audio-track="rus",Travel XP HD
+http://stream.mcquack.net/451/index.m3u8
+#EXTINF:-1 audio-track="rus",The Explorers
+http://stream.mcquack.net/450/index.m3u8
+#EXTINF:-1 audio-track="rus",viju+ Planet HD
+http://stream.mcquack.net/240/index.m3u8
+#EXTINF:-1 audio-track="rus",В мире животных HD
+http://stream.mcquack.net/241/index.m3u8
+#EXTINF:-1 audio-track="rus",Диалоги о рыбалке HD
+http://stream.mcquack.net/264/index.m3u8
+#EXTINF:-1 audio-track="rus",Дикая охота HD
+http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1,Неизвестная Планета
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
-#EXTINF:-1 audio-track="rus", Неизвестная Россия
+#EXTINF:-1 audio-track="rus",Неизвестная Россия
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
@@ -167,23 +175,67 @@ https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НТВ Право
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 audio-track="rus", НТВ-Сериал
+#EXTINF:-1 audio-track="rus",НТВ-Сериал
 http://cdn.ntv.ru/th_serial/mono.m3u8
-#EXTINF:-1 audio-track="rus", НТВ-Хит
+#EXTINF:-1 audio-track="rus",НТВ-Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Pro100
-https://stream8.cinerama.uz/1051/index.m3u8
-#EXTINF:-1,Честный детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1,Viju TV1000
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1,Viju TV1000 Action
 http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 audio-track="rus",viju+ Serial
+http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 audio-track="rus",Кинохит HD
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 audio-track="rus",Киномикс HD
+http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1 audio-track="rus",Мужское кино HD
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 audio-track="rus",Кинокомедия HD
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1 audio-track="rus",Дом кино Премиум HD
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 audio-track="rus",Премиальное HD
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 audio-track="rus",Кинопоказ HD
+http://stream.mcquack.net/64/index.m3u8
+#EXTINF:-1 audio-track="rus",Хит HD
+http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 audio-track="rus",Еврокино HD
+http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1,Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 audio-track="rus",Домашний HD
+http://stream.mcquack.net/227/index.m3u8
 #EXTINF:-1,FON music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1,Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 audio-track="rus",Муз-ТВ
+http://stream.mcquack.net/86/index.m3u8
+#EXTINF:-1 audio-track="rus",RU.TV
+http://stream.mcquack.net/109/index.m3u8
+#EXTINF:-1 audio-track="rus",Жара HD
+http://stream.mcquack.net/386/index.m3u8
+#EXTINF:-1 audio-track="rus",Bridge
+http://stream.mcquack.net/318/index.m3u8
+#EXTINF:-1 audio-track="rus",Bridge Deluxe HD
+http://stream.mcquack.net/92/index.m3u8
+#EXTINF:-1 audio-track="rus",Bridge Hits
+http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 audio-track="rus",Classic Music HD
+http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1 audio-track="rus",Clubbing TV
+https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTINF:-1,Viju+ sport
 http://stream.mcquack.net/333/index.m3u8
-#EXTINF:-1 audio-track="rus", Живая природа HD
+#EXTINF:-1 audio-track="rus",Udar
+http://stream.mcquack.net/279/index.m3u8
+#EXTINF:-1 audio-track="rus",Матч! Боец HD
+http://stream.mcquack.net/112/index.m3u8
+#EXTINF:-1 audio-track="rus",Матч! Игра HD
+http://stream.mcquack.net/188/index.m3u8
+#EXTINF:-1 audio-track="rus",Матч! Премьер HD
+http://stream.mcquack.net/193/index.m3u8
+#EXTINF:-1 audio-track="rus",Живая природа HD
 https://stream1.cinerama.uz/1411/tracks-v1a1/mono.m3u8
