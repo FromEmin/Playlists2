@@ -13,6 +13,7 @@ https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 #EXTINF:-1,Xezer TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://yayin2.canlitv.fun/live/xezertv.stream/media_w33235639_16045.ts?hash=62d73cfb044b604a7f9b3f95709b5440
 #EXTINF:-1,Azad TV HD
 #EXTVLCOPT:http-referrer=No response
