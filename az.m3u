@@ -10,7 +10,7 @@ https://live.itv.az/itv.m3u8
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1,XƏZƏR TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://xezer.tvstream.az/hls/stream/main_stream.m3u8
+https://st2.mediabay.tv/XezerTV/tracks-v2a1/mono.m3u8?token=55bfda148dfb9d18254aec489c4f3fa26fa95649-a77bfe89fb88e510dddda24afbca8f12-1792837879-1792827079
 #EXTINF:-1,Baku TV HD
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1,APA TV HD
