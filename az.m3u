@@ -5,11 +5,7 @@ http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SL
 #EXTINF:-1,Ictimai TV HD
 https://live.itv.az/itv.m3u8
 #EXTINF:-1,Azad TV HD
-#EXTVLCOPT:http-referrer=No response
-#EXTVLCOPT:http-user-agent=No response
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1,XƏZƏR TV
-https://st2.mediabay.tv/XezerTV/tracks-v2a1/mono.m3u8?token=55bfda148dfb9d18254aec489c4f3fa26fa95649-a77bfe89fb88e510dddda24afbca8f12-1792837879-1792827079
 #EXTINF:-1,Kanal S HD
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1,Baku TV HD
@@ -82,8 +78,6 @@ http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 audio-track="rus",НТВ
 http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
-#EXTINF:-1 audio-track="rus",НТВ HD
-http://flussonic.linkintel.ru/ntv/index.m3u8
 #EXTINF:-1,НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 audio-track="rus",Россия 1
