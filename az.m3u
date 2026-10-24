@@ -1,30 +1,28 @@
 #EXTM3U
-
-#EXTINF:-1,AzTV HD
-https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1,AzTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
 #EXTINF:-1,Ictimai TV HD
 https://live.itv.az/itv.m3u8
-#EXTINF:-1,Medeniyyet TV HD
-https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1,Azad TV HD
 #EXTVLCOPT:http-referrer=No response
 #EXTVLCOPT:http-user-agent=No response
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1,XƏZƏR TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 #EXTINF:-1,Baku TV HD
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1,APA TV HD
 http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1,GünAz TV HD
+https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1,Kanal S HD
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1,Azstar TV HD
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1,EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1,Kanal 35
-https://str2.yodacdn.net/kanal35/index.m3u8
 #EXTINF:-1,Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1,Vilayet TV
@@ -33,8 +31,8 @@ https://nl.livekadeh.com/hls2/vilayet.m3u8
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1,KN Music TV HD
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Naxcivan TV
-https://str2.yodacdn.net/ntv/video.m3u8
+#EXTINF:-1,CBC Sport HD
+https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:-1,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1,ATV
