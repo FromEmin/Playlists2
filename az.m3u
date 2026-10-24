@@ -8,6 +8,8 @@ https://live.itv.az/itv.m3u8
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1,Kanal S HD
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1,XƏZƏR TV HD
+https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 #EXTINF:-1,Baku TV HD
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1,APA TV HD
