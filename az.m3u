@@ -4,24 +4,30 @@
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
 #EXTINF:-1,AzTV TV HD
 https://operativmm.az/tvs/az/stream9/stream.m3u8
+#EXTINF:-1,Ictimai TV
+https://operativmm.az/tvs/ictimai/stream6/stream.m3u8
 #EXTINF:-1,Ictimai TV HD
 https://live.itv.az/itv.m3u8
-#EXTINF:-1,Azad TV HD
+#EXTINF:-1,Azad Azərbaycan HD
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1,Kanal S HD
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
-#EXTINF:-1,XƏZƏR TV HD
+#EXTINF:-1,Xəzər TV HD
 https://operativmm.az/tvs/xezer/stream/main_stream.m3u8
 #EXTINF:-1,Space TV HD
 https://operativmm.az/tvs/space/stream8/stream.m3u8
 #EXTINF:-1,ARB TV HD
 https://operativmm.az/tvs/arb/stream5/stream.m3u8
+#EXTINF:-1,ARB 24 HD
+https://operativmm.az/tvs/arb24/stream/stream.m3u8
 #EXTINF:-1,Baku TV HD
 https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1,Real TV HD
+https://operativmm.az/tvs/realtv/stream2/stream.m3u8
 #EXTINF:-1,APA TV HD
 http://stream.apa.tv/apastream/index.m3u8
-#EXTINF:-1,GünAz TV HD
-https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1,AnewZ TV HD
+https://edge-rs-01.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure-web.smil/chunklist_w1605196271_b3628000_sleng.m3u8
 #EXTINF:-1,Azstar TV HD
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1,EL TV
@@ -36,6 +42,8 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/mai
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Idman TV HD
 https://operativmm.az/tvs/idman/stream4/stream.m3u8
+#EXTINF:-1,CBC Sport
+https://operativmm.az/tvs/cbcsport/stream3/stream.m3u8
 #EXTINF:-1,CBC Sport HD
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:-1,TRT 1
