@@ -4,15 +4,12 @@
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
 #EXTINF:-1,AzTV HD
 #EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://az.tvstream.az/hls/stream9/index.m3u8
 #EXTINF:-1,Mədəniyyət TV HD
 #EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://medeniyyet.tvstream.az/hls/stream10/stream.m3u8
 #EXTINF:-1,İctimai TV
 #EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ictimai.tvstream.az/hls/stream6/stream.m3u8
 #EXTINF:-1,İctimai TV HD
 https://live.itv.az/itv.m3u8
@@ -20,25 +17,20 @@ https://live.itv.az/itv.m3u8
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1,Xəzər TV HD
 #EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 #EXTINF:-1,Kanal S HD
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1,Space TV HD
 #EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://space.tvstream.az/hls/stream8/stream.m3u8
 #EXTINF:-1,ARB TV HD
 #EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://arb.tvstream.az/hls/stream5/stream.m3u8
 #EXTINF:-1,ARB 24 HD
 #EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://arb24.tvstream.az/hls/stream/stream.m3u8
 #EXTINF:-1,Real TV HD
 #EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://realtv.tvstream.az/hls/stream2/stream.m3u8
 #EXTINF:-1,Baku TV HD
 https://rtmp.baku.tv/hls/bakutv.m3u8
@@ -58,11 +50,9 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/mai
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,İdman TV HD
 #EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://idman.tvstream.az/hls/stream4/stream.m3u8
 #EXTINF:-1,CBC Sport
 #EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cbcsport.tvstream.az/hls/stream3/stream.m3u8
 #EXTINF:-1,CBC Sport HD
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
