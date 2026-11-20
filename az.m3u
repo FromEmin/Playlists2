@@ -3,10 +3,12 @@
 http://185.32.44.154:80/aztv/index.m3u8
 #EXTINF:-1,AzTV HD
 #EXTVLCOPT:http-referrer=https://tvstream.az/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://az.tvstream.az/hls/stream9/index.m3u8
 #EXTINF:-1,Medeniyyet TV
 http://185.32.44.154:80/medeniyyet/index.m3u8
 #EXTINF:-1,Mədəniyyət TV HD
+#EXTVLCOPT:http-referrer=https://tvstream.az/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://medeniyyet.tvstream.az/hls/stream10/stream.m3u8
 #EXTINF:-1,İctimai TV
