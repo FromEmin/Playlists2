@@ -1,46 +1,32 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/EPG7"
 #EXTINF:-1,AzTV
-http://185.32.44.154:80/aztv/index.m3u8
-#EXTINF:-1,AzTV HD
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://az.tvstream.az/hls/stream9/index.m3u8
-#EXTINF:-1,Medeniyyet TV
-http://185.32.44.154:80/medeniyyet/index.m3u8
-#EXTINF:-1,Mədəniyyət TV HD
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://medeniyyet.tvstream.az/hls/stream10/stream.m3u8
+https://operativmm.az/tvs/az/stream9/stream.m3u8
 #EXTINF:-1,İctimai TV
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://ictimai.tvstream.az/hls/stream6/stream.m3u8
+https://operativmm.az/tvs/ictimai/stream6/stream.m3u8
+#EXTINF:-1,Xəzər TV
+https://operativmm.az/tvs/xezer/stream/main_stream.m3u8
+#EXTINF:-1,Space TV
+https://operativmm.az/tvs/space/stream8/stream.m3u8
+#EXTINF:-1,ARB TV
+https://operativmm.az/tvs/arb/stream5/stream.m3u8
+#EXTINF:-1,ARB 24
+https://operativmm.az/tvs/arb24/stream/stream.m3u8
+#EXTINF:-1,Real TV
+https://operativmm.az/tvs/realtv/stream2/stream.m3u8
+#EXTINF:-1,İdman TV
+https://operativmm.az/tvs/idman/stream4/stream.m3u8
+#EXTINF:-1,CBC Sport
+https://operativmm.az/tvs/cbcsport/stream3/stream.m3u8
+#EXTINF:-1,AzTV HD
+http://185.32.44.154:80/aztv/index.m3u8
+#EXTINF:-1,Mədəniyyət TV HD
+http://185.32.44.154:80/medeniyyet/index.m3u8
 #EXTINF:-1,İctimai TV HD
 https://live.itv.az/itv.m3u8
 #EXTINF:-1,Azad Azərbaycan HD
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1,Xəzər TV HD
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 #EXTINF:-1,Kanal S HD
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
-#EXTINF:-1,Space TV HD
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://space.tvstream.az/hls/stream8/stream.m3u8
-#EXTINF:-1,ARB TV HD
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://arb.tvstream.az/hls/stream5/stream.m3u8
-#EXTINF:-1,ARB 24 HD
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://arb24.tvstream.az/hls/stream/stream.m3u8
-#EXTINF:-1,Real TV HD
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://realtv.tvstream.az/hls/stream2/stream.m3u8
 #EXTINF:-1,Baku TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1,Baku TV HD
@@ -61,18 +47,43 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/1080p/1080p.m3u8
 #EXTINF:-1,KN Music TV HD
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,İdman TV
-http://185.32.44.154:80/idmanaz/index.m3u8
 #EXTINF:-1,İdman TV HD
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://idman.tvstream.az/hls/stream4/stream.m3u8
-#EXTINF:-1,CBC Sport
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://cbcsport.tvstream.az/hls/stream3/stream.m3u8
+http://185.32.44.154:80/idmanaz/index.m3u8
 #EXTINF:-1,CBC Sport HD
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:-1,AzTV HD
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://az.tvstream.az/hls/stream9/index.m3u8
+#EXTINF:-1,Mədəniyyət TV HD
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://medeniyyet.tvstream.az/hls/stream10/stream.m3u8
+#EXTINF:-1,İctimai TV HD
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://ictimai.tvstream.az/hls/stream6/stream.m3u8
+#EXTINF:-1,ATV HD
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://atv.tvstream.az/hls/stream7/stream.m3u8
+#EXTINF:-1,Xəzər TV HD
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://xezer.tvstream.az/hls/stream/main_stream.m3u8
+#EXTINF:-1,Space TV HD
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://space.tvstream.az/hls/stream8/stream.m3u8
+#EXTINF:-1,ARB TV HD
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://arb.tvstream.az/hls/stream5/stream.m3u8
+#EXTINF:-1,ARB 24 HD
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://arb24.tvstream.az/hls/stream/stream.m3u8
+#EXTINF:-1,Real TV HD
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://realtv.tvstream.az/hls/stream2/stream.m3u8
+#EXTINF:-1,İdman TV HD
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://idman.tvstream.az/hls/stream4/stream.m3u8
+#EXTINF:-1,CBC Sport HD
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://cbcsport.tvstream.az/hls/stream3/stream.m3u8
 #EXTINF:-1,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1,ATV
